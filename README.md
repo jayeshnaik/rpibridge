@@ -1,4 +1,19 @@
 # Description
+Basic WIFI to Ethernet Bridge Using RPI
+
+# Setup
+Tested with RPI Buster Image 2021. Fresh Image and setup WIFI Connection SSID and PW first.
+
+Use the WIFI Connection to do all the steps.
+
+# Same Subnet
+This option is complex, but provides a more seamless experience. Bridged clients connected to the Pi should behave as if they were connected directly to the upstream network.
+
+The following script configures everything in one go for a Pi with a standard Raspberry Pi OS install. This script is based off a very helpful Stack Overflow answer.
+
+Step 0: Connect to WiFi on the Pi like you normally would.
+
+Step 1: Save this script as a file named bridge.sh on your Pi.
 
 # bridge.sh
 
