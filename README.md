@@ -6,6 +6,13 @@ Tested with RPI Buster Image 2021. Fresh Image and setup WIFI Connection SSID an
 
 Use the WIFI Connection to do all the steps.
 
+Credits:
+
+[Based on this site](https://duckduckgo.com)](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
+
+
+
+
 # Same Subnet
 This option is complex, but provides a more seamless experience. Bridged clients connected to the Pi should behave as if they were connected directly to the upstream network.
 
