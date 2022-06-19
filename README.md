@@ -8,7 +8,7 @@ Use the WIFI Connection to do all the steps.
 
 Credits:
 
-[Based on this site](https://duckduckgo.com)](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
+[Based on this site](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
 
 
 
